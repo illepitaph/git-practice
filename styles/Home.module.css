@@ -31,7 +31,7 @@
 }
 
 .title a {
-  color: #0070f3;
+  color: hwb(63 44% 20%);
   text-decoration: none;
 }
 
